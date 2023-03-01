@@ -8,9 +8,9 @@
             "[DOWN][TOOL][SPACE][][][ENTER]"
         ],
         "sym": [
-            "[4D:[UP] [EDIT] [MC:[LAYOUT:01]:②]][MC:zdenek.kasner@gmail.com:📬][4D:$[U+00A3][U+20AC]₿¢][4D:\\[U+00AB][U+2039][U+00BB][U+203A]][4D:∞≤∈≥∅][4D:[DEL][WDEL] [FDEL]]",
+            "[4D:[UP] [EDIT] [MC:[LAYOUT:01]:②]][MC:roberto.acuna.rojas@gmail.com:📬][4D:$[U+00A3][U+20AC]₿¢][4D:\\[U+00AB][U+2039][U+00BB][U+203A]][4D:∞≤∈≥∅][4D:[DEL][WDEL] [FDEL]]",
             "[4D:[LEFT][HOME]][4D:[ALL][CUT][COPY][UNDO][PASTE]][4D:%{^}‰][4D:[U+2022]←↑→↓][4D:°[LB]²[RB]½][LOCK]",
-            "[4D:[RIGHT]  [END]][MC:Zdeněk Kasner:👦][4D:[U+007E]≈✓≠✗][4D:§®[U+2122]©×][4D:&„[U+00A1]“[U+00BF]][SHIFT]",
+            "[4D:[RIGHT]  [END]][MC:Roberto Acuña:👦][4D:[U+007E]≈✓≠✗][4D:§®[U+2122]©×][4D:&„[U+00A1]“[U+00BF]][SHIFT]",
             "[DOWN][SPACE][][][][ENTER]"
         ],
         "altGr": [
@@ -38,9 +38,9 @@
             "[DOWN][TOOL][SPACE][][][ENTER]"
         ],
         "symShifted": [
-            "[4D:[UP] [EDIT] [MC:[LAYOUT:01]:②]][MC:zdenek.kasner@gmail.com:📬][4D:$[U+00A3][U+20AC]₿¢][4D:\\[U+00AB][U+2039][U+00BB][U+203A]][4D:∞≤∈≥∅][4D:[DEL][WDEL] [FDEL]]",
+            "[4D:[UP] [EDIT] [MC:[LAYOUT:01]:②]][MC:roberto.acuna.rojas@gmail.com:📬][4D:$[U+00A3][U+20AC]₿¢][4D:\\[U+00AB][U+2039][U+00BB][U+203A]][4D:∞≤∈≥∅][4D:[DEL][WDEL] [FDEL]]",
             "[4D:[LEFT][HOME]][4D:[ALL][CUT][COPY][UNDO][PASTE]][4D:§{^}×][4D:[U+2022]←↑→↓][4D:°[LB]♂[RB]♀][LOCK]",
-            "[4D:[RIGHT]  [END]][MC:Zdeněk Kasner:👦][4D:[U+007E]≈✓≠✗][4D:%®[U+2122]©‰][4D:&„[U+00A1]“[U+00BF]][SHIFT]",
+            "[4D:[RIGHT]  [END]][MC:Roberto Acuña:👦][4D:[U+007E]≈✓≠✗][4D:%®[U+2122]©‰][4D:&„[U+00A1]“[U+00BF]][SHIFT]",
             "[DOWN][SPACE][][][][ENTER]"
         ],
         "prediction": {
