@@ -2,9 +2,9 @@
     "title": "messagease-esbr-base",
     "onScreen": {
         "main": [
-            "[4D:[UP] [EDIT] [MC:[LAYOUT:01]:②]][4D:#—|–_][4D:aãõ-á$ v@][4D:n¡ñ!l é\/][4D:i¿ ? í €x][4D:[DEL][WDEL] [FDEL]]",
+            "[4D:[UP] [EDIT] [MC:[LAYOUT:01]:②]][4D:#—|–_][4D:aãõ-á$ v@][4D:n¡ñ!l é\\/][4D:i¿ ? í €x][4D:[DEL][WDEL] [FDEL]]",
             "[4D:[LEFT][HOME]][4D:[ALL][CUT][COPY][UNDO][PASTE]][4D:d(ükç{%_][4D:ocubhqpjg][4D:rm ) |} @][4D:[123][EMOJI][SYM] [ALTGR]]",
-            "[4D:[RIGHT]  [END]][4D:-<+>=\"'*/][4D:t ú ó~y  ][4D:eéwz.  :,][4D:s#&  f …;][SHIFT]",
+            "[4D:[RIGHT]  [END]][4D:-<+>= '* ][4D:t ú ó~y  ][4D:eéwz.\"':,][4D:s#&  f …;][SHIFT]",
             "[DOWN][TOOL][SPACE][][][ENTER]"
         ],
         "sym": [
