@@ -2,9 +2,9 @@
     "title": "messagease-esbr-nocur-right",
     "onScreen": {
         "main": [
-            "[4D:[123][ALTGR][CAPS][EMOJI][SYM]][4D:aãõ-á$ v@][4D:n¡ñ!l é\\/][4D:i¿+?=í €x]",
+            "[4D:[123][ALTGR][CAPS][EMOJI][SYM]][4D:aãõ-á$[RIGHT]v@][4D:n¡ñ!l[LEFT]é\\/][4D:i¿+?=í €x]",
             "[4D:[DEL][WDEL] [FDEL]][4D:d(ükç{%_[LB]][4D:ocubhqpjg][4D:rm[SHIFT]) |}[RB]@]",
-            "[4D:[ALL][CUT][COPY][UNDO][PASTE]][4D:t<ú*ó~y  ][4D:eéwz.\"':,][4D:s#&> f …;]",
+            "[4D:[ALL][CUT][COPY][UNDO][PASTE]][4D:t<ú*ó~y [HOME]][4D:eéwz.\"':,][4D:s#&> f [END];]",
             "[TOOL][SPACE][][ENTER]"
         ],
         "sym": [
@@ -32,9 +32,9 @@
             "[TOOL][123][SPACE][][][ENTER]"
         ],
         "shifted": [
-            "[4D:[123][ALTGR][CAPS][EMOJI][SYM]][4D:AÃÕ-Á$ V@][4D:N¡Ñ!L É\\/][4D:I¿+?=Í €X]",
+            "[4D:[123][ALTGR][CAPS][EMOJI][SYM]][4D:AÃÕ-Á$[RIGHT]V@][4D:N¡Ñ!L[LEFT]É\\/][4D:I¿+?=Í €X]",
             "[4D:[DEL][WDEL] [FDEL]][4D:D(ÜKÇ{%_[LB]][4D:OCUBHQPJG][4D:RM[SHIFT]) |}[RB]@]",
-            "[4D:[ALL][CUT][COPY][UNDO][PASTE]][4D:T<Ú*Ó~Y  ][4D:EÉWZ.\"':,][4D:S#&> F …;]",
+            "[4D:[ALL][CUT][COPY][UNDO][PASTE]][4D:T<Ú*Ó~Y [HOME]][4D:EÉWZ.\"':,][4D:S#&> F [END];]",
             "[TOOL][SPACE][][ENTER]"
         ],
         "symShifted": [
