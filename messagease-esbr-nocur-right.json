@@ -20,10 +20,10 @@
             "[DOWN][SPACE][][][][ENTER]"
         ],
         "num": [
-            "[4D:[UP] [EDIT] [MC:[LAYOUT:01]:②]][4D:#—|–_][4D:[DEL][WDEL] [FDEL]][4D:1][4D:2][4D:3]",
-            "[4D:[LEFT][HOME]][4D:[ALL][CUT][COPY][UNDO][PASTE]][LOCK][4D:4][4D:5][4D:6]",
-            "[4D:[RIGHT]  [END]][4D:-<+>=\"'*/][RIGHT][4D:7][4D:8][4D:9]",
-            "[DOWN][4D:.(,):][ENTER][4D:0][SPACE][]"
+            "[4D:#—|–_][LOCK][4D:1][4D:2][4D:3][4D:[UP] [EDIT] [MC:[LAYOUT:01]:②]]",
+            "[4D:[ALL][CUT][COPY][UNDO][PASTE]][EMOJI][4D:4][4D:5][4D:6][4D:[LEFT][HOME]]",
+            "[4D:-<+>=\"'*/][4D:[DEL][WDEL] [FDEL]][4D:7][4D:8][4D:9][4D:[RIGHT]  [END]]",
+            "[4D:.(,):][ENTER][4D:0][SPACE][][DOWN]"
         ],
         "edit": [
             "[4D:.][COPY][UNDO][UP][REDO][4D:[DEL][WDEL] [FDEL]]",
