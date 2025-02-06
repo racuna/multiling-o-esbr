@@ -2,7 +2,7 @@
     "title": "multiling-o-EsCenter",
     "onScreen": {
         "main": [
-            "[LEFT][4D:[123][ALTGR][CAPS][EMOJI][SYM]][4D:aãõ-á$ v ][4D:n¡ñ!l é\\/][4D:i?+¿=í €x][RIGHT]",
+            "[4D:[LEFT]][4D:[123][ALTGR][CAPS][EMOJI][SYM]][4D:aãõ-á$ v ][4D:n¡ñ!l é\\/][4D:i?+¿=í €x][4D:[RIGHT]]",
             "[MC:Roberto:👦][4D: [CUT][COPY][UNDO][PASTE] [ALL]][4D:d(ükç{%_[LB]][4D:ocubhqpjg][4D:rm[SHIFT])@|}[RB] ][MC:Acuña:👦]",
             "[MC:roberto.acuna.rojas@gmail.com:📬][4D:[DEL][WDEL] [FDEL]][4D:t<ú*ó~y [HOME]][4D:eéwz.\"':,][4D:s &>;f [END]#][MC:racuna.mahatta@gmail.com:📬]",
             "[MC:qu:🧀][TOOL][ENTER][SPACE][][MC:gu:🍒]"
@@ -32,7 +32,7 @@
             "[ENTER][TOOL][123][SPACE][][]"
         ],
         "shifted": [
-            "[LEFT][4D:[123][ALTGR][CAPS][EMOJI][SYM]][4D:AÃÕ-Á$ V ][4D:N¡Ñ!L É\\/][4D:I?+¿=Í €X][RIGHT]",
+            "[4D:[LEFT]][4D:[123][ALTGR][CAPS][EMOJI][SYM]][4D:AÃÕ-Á$ V ][4D:N¡Ñ!L É\\/][4D:I?+¿=Í €X][4D:[RIGHT]]",
             "[MC:Roberto:👦][4D: [CUT][COPY][UNDO][PASTE] [ALL]][4D:D(ÜKÇ{%_[LB]][4D:OCUBHQPJG][4D:RM[SHIFT])@|}[RB] ][MC:Acuña:👦"],
             "[MC:roberto.acuna.rojas@gmail.com:📬][4D:[DEL][WDEL] [FDEL]][4D:T<Ú*Ó~Y [HOME]][4D:EÉWZ.\"':,][4D:S &>;F [END]#][MC:racuna.mahatta@gmail.com:📬]",
             "[MC:Qu:🧀][TOOL][ENTER][SPACE][][MC:Gu:🍒]""
